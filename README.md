@@ -70,5 +70,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or feedback, please contact EssaRAE at [your-harishv9904@gmail.com](mailto:your-harishv9904@gmail.com).
+For any inquiries or feedback, please contact at [harishv9904@gmail.com](mailto:your-harishv9904@gmail.com).
 
